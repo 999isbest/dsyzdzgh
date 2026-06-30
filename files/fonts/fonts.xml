@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-202663014390574.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-202663014390575.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-202663014390575.swf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-202663014390576.swf"/>
+    <font name="Noto Serif SC" className="FskyFont_NotoSerifSC-VF" url="./files/fonts/font-1-0-202663014390577.swf"/>
+    <font name="思源宋体 CN Medium" className="FskyFont_SourceHanSerifCN-Medium" url="./files/fonts/font-2-0-202663014390578.swf"/>
+    <font name="Source Han Serif CN" className="FskyFont_SourceHanSerifCN-Bold" url="./files/fonts/font-3-0-202663014390579.swf"/>
+    <font name="Alimama DongFangDaKai" className="FskyFont_AlimamaDongFangDaKai-Regular" url="./files/fonts/font-4-0-202663014390580.swf"/>
+    <font name="Noto Sans SC" className="FskyFont_Noto Sans SC (TrueType)" url="./files/fonts/font-5-0-202663014390581.swf"/>
+    <font name="Noto Sans SC" className="FskyFont_Noto Sans SC Bold (TrueType)" url="./files/fonts/font-5-1-202663014390582.swf"/>
+    <font name="Alimama ShuHeiTi" className="FskyFont_阿里妈妈数黑体(1)" url="./files/fonts/font-6-0-202663014390583.swf"/>
+    <font name="Alimama ShuHeiTi" className="FskyFont_阿里妈妈数黑体" url="./files/fonts/font-6-1-202663014390583.swf"/>
+    <font name="Alimama ShuHeiTi" className="FskyFont_AlimamaShuHeiTi-Bold" url="./files/fonts/font-6-2-202663014390584.swf"/>
+  </fonts>
+</data>
