@@ -1,0 +1,18 @@
+/* 
+  Name:		DustFlying2
+  Type:		Entrance
+  TypeSecond:  	Particle
+  Description:	DustFlying2
+  locale:		{"zh-Hans":"粒子进场2", "en-US":"Entry Explosion 2"}
+  Version:		2.0
+  Method:		CLASS
+  Class:		DustFlying2MD
+ */
+ 
+@keyframes dustFlying2 {
+
+}
+
+.dustFlying2{
+	animation-duration: 2s;
+}

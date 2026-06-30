@@ -1,0 +1,17 @@
+/* 
+  Name:			ReelExpand
+  Type:			Entrance
+  TypeSecond:   scene
+  Description:	Reel Expand
+  Version:		2.0	
+  locale:		{"zh-Hans":"卷轴展开", "en-US":"Reel Expand"}
+  Class:        ReelExpand
+ */
+ 
+@keyframes reelExpand{
+	
+}
+
+.reelExpand{
+	animation-duration: 2s;
+}
